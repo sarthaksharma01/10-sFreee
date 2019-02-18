@@ -1,0 +1,21 @@
+body{
+    color:white;
+    background-color:black;
+    font-family:sans-serif;
+    font-size:20px;
+}
+iframe{
+    margin-left:35%;
+}
+ 
+img{
+    margin-left: 35%;
+}
+
+h1,h2{
+    text-decoration: underline;
+    text-align: center;
+}
+li{
+ font-size:25px;
+}

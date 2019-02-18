@@ -1,0 +1,26 @@
+
+body{
+    background-color: black;
+    border: 3px solid white;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+#p1{
+    color: white;
+    text-align: center;
+    left: 60px;
+    right: 60px;
+}
+h2{
+    color: white;
+
+}
+#p2{
+    color: white;
+    text-align: center;
+}
+#yt{
+    margin-left: 30%;
+}

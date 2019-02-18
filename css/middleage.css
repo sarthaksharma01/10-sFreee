@@ -1,0 +1,21 @@
+.card{
+    height:480px;
+    width:150;
+    border:2px solid black;
+    float:left;
+    margin:60px;
+}
+img{
+    height:200px;
+    width:285px;
+    border:2px solid black;
+}
+h1{
+ color:black;
+}
+body{
+    background-image:url("../assets/JADM-NewTricks-BrainBulb2.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
